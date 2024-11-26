@@ -4,6 +4,8 @@
   <a href="mailto:caiodumontfer@gmail.com" target="_blank" ><img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> 
   <a href="https://www.instagram.com/c4iiin/" target="_blank" ><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a> 
   <a href="https://www.linkedin.com/in/caio-henrique-dumont-ferreira-3b9b27339/" target="_blank" ><img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://leetcode.com/u/caiodumont/" target="_blank" ><img align="center" alt="LeetCode" src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" /></a> 
+  <a href="https://www.hackerrank.com/profile/caiodumont" target="_blank" ><img align="center" alt="HackerRank" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" /></a> 
 </div>
 
 <br />
